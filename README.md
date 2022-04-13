@@ -1,5 +1,5 @@
 <div align=center>
-  <img src="https://readme-typing-svg.herokuapp.com?duration=7000&color=2D9ECF&lines=Hi%2C+There+I'm+Amine;Big+Data+%26+Cloud+Computing+student" alt="Headline" />
+  <img src="https://readme-typing-svg.herokuapp.com?duration=7000&color=2D9ECF&lines=Hi%2C+There+I'm+Amine+hmine;Big+Data+%26+Cloud+Computing+student" alt="Headline" />
   </div>
 
 <!--
