@@ -21,9 +21,9 @@ const amine = {
 <div align=center>
         <h1>Contribution Activity</h1>
         <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=AmineHmine&title_color=6FDA44&text_color=FFFFFF&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=dark" alt="GitHub Stats" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AmineHmine&title_color=2D9ECF&text_color=FFFFFF&show_icons=true&icon_color=2D9ECF&include_all_commits=true&count_private=true&theme=dark" alt="GitHub Stats" height="200" />
         <br>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmineHmine&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44" alt="GitHub Streak Stats" height="200" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmineHmine&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=2D9ECF&fire=2D9ECF&ring=2D9ECF" alt="GitHub Streak Stats" height="200" />
         <br>
         <br>
     </div>
