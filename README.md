@@ -1,7 +1,8 @@
 <div align=center>
   <img width="30%" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
-  <br>
-  <img src="https://readme-typing-svg.herokuapp.com?duration=7000&color=2D9ECF&lines=Hi+There%2C+I'm+Amine+hmine;Big+Data+%26+Cloud+Computing+student;UI%2FUX+Designer"     alt="Headline" />
+  <div align=center>
+        <img src="https://readme-typing-svg.herokuapp.com?duration=7000&color=2D9ECF&size=32&center=true&vCenter=true&width=600&height=50&lines=I'm+Amine+hmine;Big+Data+%26+Cloud+Computing+student;UI%2FUX+Designer" alt="Headline" />
+    </div>
 </div>
 
 #### about me
