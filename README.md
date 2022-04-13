@@ -1,6 +1,19 @@
 <div align=center>
   <img src="https://readme-typing-svg.herokuapp.com?duration=7000&color=2D9ECF&lines=Hi+There%2C+I'm+Amine+hmine;Big+Data+%26+Cloud+Computing+student" alt="Headline" />
-  </div>
+</div>
+  
+#### A little more about me
+```javascript
+const amine = {
+  pronouns: "He" | "Him",
+  code: ["Javascript", "php", "HTML", "CSS", "C++",java],
+  askMeAbout: ["web dev", "frontend dev", "tailwind", "node.js"],
+  technologies: {
+      frontend: ["vue.js", "Bootstrap", "uikit"],
+      backend: ["Spring", "symfony", "node.js"],
+  }
+}
+```
 
 <!--
 **AmineHmine/AmineHmine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
