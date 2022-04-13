@@ -1,8 +1,7 @@
 <div align=center>
   <img src="https://readme-typing-svg.herokuapp.com?duration=7000&color=2D9ECF&lines=Hi+There%2C+I'm+Amine+hmine;Big+Data+%26+Cloud+Computing+student" alt="Headline" />
 </div>
-  
-  #### about me
+#### about me
 ```javascript
 const amine = {
   pronouns: "He" | "Him",
