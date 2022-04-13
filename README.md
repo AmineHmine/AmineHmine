@@ -1,5 +1,5 @@
 <div align=center>
-  <img src="https://readme-typing-svg.herokuapp.com?duration=7000&color=2D9ECF&lines=Hi+There%2C+I'm+Amine+hmine;Big+Data+%26+Cloud+Computing+student" alt="Headline" />
+  <img src="https://readme-typing-svg.herokuapp.com?duration=7000&color=2D9ECF&lines=Hi+There%2C+I'm+Amine+hmine;Big+Data+%26+Cloud+Computing+student;UI%2FUX+Designer"     alt="Headline" />
 </div>
 
 #### about me
@@ -14,6 +14,9 @@ const amine = {
   }
 }
 ```
+
+#### my activity
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=AmineHmine&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--
 **AmineHmine/AmineHmine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
