@@ -1,16 +1,6 @@
-<p>
-  Hi ! <br>
-  my name is Amine Hmine, <br>
-  am currently a Big Data and Cloud Computing engineering student <br>
-  
-</p>
-## My Statistics
-
-<br/>
-<p align="left">
-</p>
-<br>
-
+<div align=center>
+  <img src="https://readme-typing-svg.herokuapp.com?duration=7000&color=2D9ECF&lines=Hi%2C+There+I'm+Amine+Hmine;Big+Data+%26+Cloud+Computing+student" alt="Headline" />
+  </div>
 
 <!--
 **AmineHmine/AmineHmine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
