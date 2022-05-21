@@ -1,5 +1,5 @@
 <div align=center>
-  <img width="30%" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
+  <img width="30%" src="https://giphy.com/embed/RbDKaczqWovIugyJmW">
   <div align=center>
         <img src="https://readme-typing-svg.herokuapp.com?duration=5000&color=2D9ECF&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Amine+Hmine;Big+Data+%26+Cloud+Computing+student;UI%2FUX+Designer" alt="Headline" />
     </div>
