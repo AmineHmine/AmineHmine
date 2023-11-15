@@ -11,7 +11,7 @@ const amine = {
   code: ["Javascript", "php", "HTML", "CSS", "C++",java],
   askMeAbout: ["web dev", "frontend dev", "tailwind", "node.js"],
   technologies: {
-      frontend: ["vue.js", "Bootstrap", "uikit"],
+      frontend: ["vue.js", "Bootstrap", "UiKit", "React JS"],
       backend: ["Spring", "symfony", "node.js"],
   }
 }
