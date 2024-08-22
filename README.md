@@ -17,19 +17,6 @@ const amine = {
 }
 ```
 
-#### my activity
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=AmineHmine&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<div align=center>
-        <h1>Contribution Activity</h1>
-        <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=AmineHmine&title_color=2D9ECF&text_color=FFFFFF&show_icons=true&icon_color=2D9ECF&include_all_commits=true&count_private=true&theme=dark" alt="GitHub Stats" height="200" />
-        <br>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmineHmine&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=2D9ECF&fire=2D9ECF&ring=2D9ECF" alt="GitHub Streak Stats" height="200" />
-        <br>
-        <br>
-    </div>
-    
 <!--
 **AmineHmine/AmineHmine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
